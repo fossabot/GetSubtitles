@@ -28,6 +28,7 @@
 **下载单视频字幕**：
 
 ![single file](./pic/single.gif)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgyh1621%2FGetSubtitles.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgyh1621%2FGetSubtitles?ref=badge_shield)
 
 
 
@@ -131,3 +132,7 @@ The NoteBook
 ~~若下载出现unknown error，可能就是下载频率过高，可以等一段时间再试。~~
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgyh1621%2FGetSubtitles.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgyh1621%2FGetSubtitles?ref=badge_large)
